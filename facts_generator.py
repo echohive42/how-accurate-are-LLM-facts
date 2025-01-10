@@ -9,8 +9,6 @@ from datetime import datetime
 # Constants
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")
-SITE_URL = "https://your-site-url.com"
-SITE_NAME = "Facts Generator"
 OPENROUTER_MODEL = "openai/gpt-4o-2024-11-20"
 PERPLEXITY_MODEL = "llama-3.1-sonar-large-128k-online"
 OUTPUT_FILE = "verified_facts.json"
@@ -104,10 +102,6 @@ async def get_facts_with_retry(client: AsyncOpenAI, topic: str, num_facts: int, 
             Only include the facts with tags, one per line, nothing else."""
 
             completion = await client.chat.completions.create(
-                extra_headers={
-                    "HTTP-Referer": SITE_URL,
-                    "X-Title": SITE_NAME,
-                },
                 model=OPENROUTER_MODEL,
                 messages=[
                     {"role": "system", "content": system_prompt},

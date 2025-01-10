@@ -17,6 +17,22 @@ This tool uses AI models and Perplxity web search for verifying facts. Results s
 - Structured JSON output with verification assessments
 - Robust error handling and progress feedback
 
+## ❤️ Support & Get 400+ AI Projects
+
+![image](https://github.com/user-attachments/assets/6f435a0c-1301-47a4-979d-9b8ced619862)
+
+
+This is one of 400+ fascinating projects in my collection! [Support me on Patreon](https://www.patreon.com/c/echohive42/membership) to get:
+
+- 🎯 Access to 400+ AI projects (and growing daily!)
+  - Including advanced projects like [2 Agent Real-time voice template with turn taking](https://www.patreon.com/posts/2-agent-real-you-118330397)
+- 📥 Full source code & detailed explanations
+- 📚 1000x Cursor Course
+- 🎓 Live coding sessions & AMAs
+- 💬 1-on-1 consultations (higher tiers)
+- 🎁 Exclusive discounts on AI tools & platforms (up to $180 value)
+
+
 ## 🛠️ Requirements
 
 - Python 3.7+

@@ -42,7 +42,6 @@ This is one of 400+ fascinating projects in my collection! [Support me on Patreo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fact-generator.git
 cd fact-generator
 ```
 

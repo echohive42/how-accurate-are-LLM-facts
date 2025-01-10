@@ -1,6 +1,8 @@
 # AI-Powered Fact Generator and Verifier
 
 A sophisticated Python tool that generates interesting facts about any topic and automatically verifies them using dual AI systems. The tool uses OpenRouter for fact generation and Perplexity AI for fact verification, providing a reliable source of verified information.
+![image](https://github.com/user-attachments/assets/2292a1bd-bc2e-4389-bff5-32c359f1b2a2)
+
 
 ## 🌟 Features
 
@@ -12,6 +14,19 @@ A sophisticated Python tool that generates interesting facts about any topic and
 - Color-coded console output for better readability
 - Structured JSON output with verification results
 - Robust error handling and progress feedback
+
+- ## ❤️ Support & Get 400+ AI Projects
+
+This is one of 400+ fascinating projects in my collection! [Support me on Patreon](https://www.patreon.com/c/echohive42/membership) to get:
+
+- 🎯 Access to 400+ AI projects (and growing daily!)
+  - Including advanced projects like [2 Agent Real-time voice template with turn taking](https://www.patreon.com/posts/2-agent-real-you-118330397)
+- 📥 Full source code & detailed explanations
+- 📚 1000x Cursor Course
+- 🎓 Live coding sessions & AMAs
+- 💬 1-on-1 consultations (higher tiers)
+- 🎁 Exclusive discounts on AI tools & platforms (up to $180 value)
+
 
 ## 🛠️ Requirements
 
